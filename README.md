@@ -1,16 +1,47 @@
 ### Hi there 👋
 
-<!--
-**ploriente/ploriente** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Pablo, I'm a bilingual developer in training from BA, Argentina (native Spanish speaker).
 
-Here are some ideas to get you started:
+I've recently completed a course in Javascript Fullstack development, but I've got some experience in a few other things...
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm looking for job opportunities as a Junior/Trainee Full Stack Web Developer.👨‍🏫
+
+🎓 I'm knowledgeable in:
+
+☑ NodeJS
+
+☑ Javascript                   
+
+☑ React
+
+☑ Python
+
+☑ Git/Github
+
+☑ Visual Studio Code
+
+☑ Express
+
+☑ MySQL
+
+☑ EJS
+
+☑ Postman
+
+☑ Sequelize
+
+☑ Patrón de arquitectura MVC
+
+☑ HTML                      
+
+☑ CSS
+
+☑ MS Office
+
+✅ Metodologías Ágiles– Scrum
+
+⚫ Liderazgo
+
+⚫ Trabajo en Equipo
+
+⚫ Organización
